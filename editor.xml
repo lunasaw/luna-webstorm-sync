@@ -2,6 +2,9 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
