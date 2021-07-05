@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

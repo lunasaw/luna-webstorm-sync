@@ -1,5 +1,13 @@
 <application>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/czy1024/luna-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/myproject" />
   </component>
 </application>
